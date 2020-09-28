@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int OPEN_DOCUMENT_REQUEST = 101;
 
     private static final String[] SAMPLE_MODELS
-            = new String[] { "bunny.stl", "dragon.stl", "lucy.stl" };
+            = new String[] { "trooper.stl", "bunny.stl", "dragon.stl", "lucy.stl" };
     private static int sampleModelIndex;
 
     private ModelViewerApplication app;
